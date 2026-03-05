@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\config\AppConfig.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\controller\TaskController.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\dto\TaskRequestDTO.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\dto\TaskResponseDTO.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\exception\GlobalExceptionHandler.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\exception\ResourceNotFoundException.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\mapper\TaskMapper.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\model\Task.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\repository\TaskRepository.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\security\JwtFilter.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\security\SecurityConfig.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\service\impl\TaskServiceImpl.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\service\TaskService.java
+C:\Users\user\OneDrive\Desktop\SpringBoot\taskManager\src\main\java\com\example\taskmanager\TaskManagerApplication.java

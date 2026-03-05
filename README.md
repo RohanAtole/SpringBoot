@@ -1,4 +1,4 @@
-# 🚀 Advanced Java Repository
+# 🚀 SpringBoot Repository
 
 This repository contains my **Advanced Java learning journey** including
 JDBC, Servlets, JSP, Spring Boot, REST APIs, and backend project development.

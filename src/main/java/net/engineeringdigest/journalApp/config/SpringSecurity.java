@@ -35,6 +35,7 @@ public class SpringSecurity {
                 // protect user APIs
                 .requestMatchers(HttpMethod.GET, "/user/**").hasRole("USER")
                 .requestMatchers(HttpMethod.PUT, "/user/**").hasRole("USER")
+                .requestMatchers("/admin/**").hasRole("ADMIN")
 
                 // journal APIs require authentication
                 .requestMatchers("/journal/**","/user/**").authenticated()
